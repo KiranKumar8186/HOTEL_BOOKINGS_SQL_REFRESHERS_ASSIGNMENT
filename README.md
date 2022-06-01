@@ -1,4 +1,4 @@
-# **SQL_REFRESHERS_ASSIGNMENT**-
+# **SQL_REFRESHERS_ASSIGNMENT**
 
 ### **Creating a Sql database by my own from the reference and created multiple tables and inserted sample of 6 records. And wrote some queiries on created database.**
 
